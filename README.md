@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **In Relationship with my procrastination**
 
+- 👨‍💻 **Gamer by hobby Coder by passion**
+
 <br>
 <br>
 
