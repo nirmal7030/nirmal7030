@@ -1,3 +1,5 @@
+<img src="https://github.com/Rushikeshp2002/DSA-Clg/blob/main/90afe999289fd34ca9faf8ecec68a8fb.gif" align="center" style="width: 100%">
+
 <h1 align="center">Hi 👋, I'm Nirmal Mahale</h1>
 <h3 align="center">Passionate CSE Student studying in DR.D Y Patil School Of Engineering And Technology</h3>
 
