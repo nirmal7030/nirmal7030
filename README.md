@@ -1,91 +1,98 @@
-<h1 align="center">Hi 👋, I'm Nirmal Mahale</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS Certified | Kubernetes Specialist</h3>
+<div align="center">
+  <!-- Professional Banner -->
+  <img src="https://github.com/nirmal7030/Cloud-Portfolio/blob/main/cloud-devops-banner.gif?raw=true" alt="Cloud DevOps Banner" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
+  
+  <!-- Dynamic Typing Title -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3A7BD5&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Nirmal+Mahale;Cloud+%7C+DevOps+Engineer;MSc+Cloud+Computing+%40+NCI" alt="Typing SVG">
+  </h1>
+  
+  <!-- Profile Stats -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=nirmal7030&label=Profile+Views&color=3a7bd5&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/AWS-Certified-yellow?style=for-the-badge&logo=amazon-aws" alt="AWS Certified">
+  </p>
+</div>
 
+<!-- About Me Section -->
+<h2 align="center">🚀 About Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/nirmal-mahale" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mahalenirmal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/nirmal7030">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  Passionate about Cloud Computing, DevOps, and Automation. Enthusiastic about building scalable solutions and optimizing cloud infrastructure.
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal7030&theme=dark" alt="GitHub Streak"/>
+  <table>
+    <tr>
+      <td width="60%" align="left">
+        <ul>
+          <li> ☁️ <b>Google DSC Cloud Lead</b> (2023)</li>
+          <li> 🔥 <b>AWS Academy Graduate</b> (ML & Cloud Foundations)</li>
+          <li> 🚀 <b>Smart India Hackathon Finalist</b> (2022)</li>
+          <li> 📝 <b>Published Researcher</b> in Cloud Computing</li>
+          <li> 🔭 <b>Currently:</b> Building auto-scaling microservices</li>
+          <li> 🌱 <b>Learning:</b> Advanced Kubernetes & Terraform</li>
+          <li> 💡 <b>Fun Fact:</b> I automate everything with Python</li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/H7NY7Yz9Z9O0jzQKj8/giphy.gif" width="300px" alt="Cloud Computing" style="animation: pulse 2s infinite; border-radius: 10px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);">
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 🔧 Technical Expertise
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Cloud & DevOps Stack</h2>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+    <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  </p>
+</div>
 
-### ☁️ Cloud Technologies
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="EC2"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3"/>
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Lambda"/>
-  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="IAM"/>
-</p>
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h3>Microservices Monitoring</h3>
+        <a href="https://github.com/nirmal7030/microservices-monitoring">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmal7030&repo=microservices-monitoring&theme=radical&show_owner=true" alt="Microservices Monitoring">
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <h3>Hearus Fall Detection</h3>
+        <a href="https://github.com/nirmal7030/hearus">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmal7030&repo=hearus&theme=radical&show_owner=true" alt="Hearus">
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <h3>Cloud Automation</h3>
+        <a href="https://github.com/nirmal7030/cloud-automation">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nirmal7030&repo=cloud-automation&theme=radical&show_owner=true" alt="Cloud Automation">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🛠 DevOps Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nirmal7030&show_icons=true&theme=radical&title_color=3a7bd5&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal7030&theme=radical&hide_border=true&fire=3a7bd5&ring=3a7bd5" alt="GitHub Streak">
+</div>
 
-### 💻 Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
-
-## 🚀 Recent Projects
-
-### Scaling Microservices with Docker & Kubernetes
-✔ Built monitoring dashboard with Grafana  
-✔ Implemented CI/CD pipelines  
-✔ Optimized container orchestration  
-
-### AWS Cloud Solutions
-✔ Designed secure cloud architectures  
-✔ Automated deployments with Lambda  
-✔ Implemented IAM best practices  
-
-### Hearus - Fall Detection System
-✔ Cloud-integrated alert system  
-✔ SMS/Web notification pipeline  
-✔ AWS-hosted backend  
-
-## 📚 Certifications
-- AWS Academy Cloud Foundations
-- AWS Machine Learning Foundations
-- Advanced DevOps Course
-- Google Cloud Fundamentals
-
-## 🎓 Education
-**Masters in Cloud Computing**  
-National College of Ireland (2025 - Present)  
-
-**B.E Computer Engineering**  
-Ajeenkya DY Patil University (CGPA: 8.24)  
-
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nirmal7030&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmal7030&layout=compact&theme=radical" />
-</p>
-
-## 💡 Currently Exploring
-- Serverless Architectures
-- Infrastructure as Code (Terraform)
-- MLOps Pipelines
-- Cloud Security Best Practices
-
-<p align="center">
-  <img src="https://github.com/nirmal7030/nirmal7030/blob/main/cloud-engineering-banner.gif" alt="Cloud Engineering" width="100%"/>
-</p>
+<!-- CSS Animations -->
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+</style>
